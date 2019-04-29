@@ -12,11 +12,11 @@ The website of this App was already created by me in my web design Project, I wa
 - [x] SETUP FireBase in that folder for PODS FILE AND OTHER FILES * [See link](https://firebase.google.com/docs/ios/setup?authuser=1) 
 - [x] RUN THE APPLICATION 
 - [x] By default I have created it for iPhode 8
-
-<img src="/ScreenShots/1.png" width=400 height=400>
-<img src="/ScreenShots/2.png" width=400 height=400>
-<img src="/ScreenShots/3.png" width=400 height=400>
-
+<p float="left">
+<img src="/ScreenShots/1.png" width=300 height=400>
+<img src="/ScreenShots/2.png" width=300 height=400>
+<img src="/ScreenShots/3.png" width=300 height=400>
+</p>
 ![2](ScreenShots/1.png)
 
 ### Models :
