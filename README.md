@@ -13,7 +13,9 @@ The website of this App was already created by me in my web design Project, I wa
 - [x] RUN THE APPLICATION 
 - [x] By default I have created it for iPhode 8
 
-<img src="/ScreenShots/1.png" width=600>
+<img src="/ScreenShots/1.png" width=400 height=400>
+<img src="/ScreenShots/2.png" width=400 height=400>
+<img src="/ScreenShots/3.png" width=400 height=400>
 
 ![2](ScreenShots/1.png)
 
