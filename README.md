@@ -9,11 +9,12 @@ The website of this App was already created by me in my web design Project, I wa
 
 ## STEPS TO SETUP THE PROJECT
 - [x] OPEN THE WORKSPACE FILE on your XCODE
-- [x] SETUP FireBase in that folder for PODS FILE AND OTHER FILES
+- [x] SETUP FireBase in that folder for PODS FILE AND OTHER FILES * [See link](https://firebase.google.com/docs/ios/setup?authuser=1) 
 - [x] RUN THE APPLICATION 
 - [x] By default I have created it for iPhode 8
 
-![1](ScreenShots/1.png)
+<img src="/ScreenShots/1.png" width=600>
+
 ![2](ScreenShots/1.png)
 
 ### Models :
